@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "Correr 5km",
+        "status": "done",
+        "createdAt": "2025-12-15 06:00:55.603686",
+        "updatedAt": "2025-12-15T06:12:17.990608"
+    },
+    {
+        "id": 2,
+        "description": "Bucear",
+        "status": "in-progress",
+        "createdAt": "2025-12-15 06:12:30.461601",
+        "updatedAt": "2025-12-15 06:12:30.461601"
+    }
+]
